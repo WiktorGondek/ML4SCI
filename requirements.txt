@@ -1,0 +1,9 @@
+pennylane
+matplotlib
+PyQt5
+dgl
+pandas
+pydantic
+scikit-learn
+
+
