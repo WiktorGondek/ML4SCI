@@ -1,7 +1,9 @@
+jupyterlab
 pennylane
 matplotlib
 PyQt5
-dgl
+dgl==2.1.0
+torch==2.2.1
 pandas
 pydantic
 scikit-learn
